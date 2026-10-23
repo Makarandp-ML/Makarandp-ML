@@ -82,19 +82,31 @@ Turning raw data into meaningful insights and exploring intelligent solutions to
 
 **Tools:** Python · Streamlit · SQLite · Pandas
 
-[Explore the N100 repository](YOUR_N100_REPOSITORY_URL)
+[Explore the N100 repository]((https://github.com/Makarandp-ML/N100-Financial-Intelligence-Platform))
 
-### 🛡️ VaaniShield AI
+🚀 2. Product Hub — Product Management Platform
 
-**Domain:** Artificial Intelligence | Content Analysis
+Product Management | Business Analysis | Web Development
 
-- Explore AI-generated content detection for text, images, and audio.
-- Separate content-origin assessments from misinformation checks.
-- Present analysis results in a user-friendly interface.
+A product-focused platform concept designed to organize product information, track product progress, and make product-related information easier to manage.
 
-**Tools:** React · TypeScript · Tailwind CSS · AI tools
+Project Goals
 
-[Explore the VaaniShield repository](YOUR_VAANISHIELD_REPOSITORY_URL)
+Organize and manage product information.
+
+Track product progress and development activities.
+
+Present product information through a clear interface.
+
+Support structured workflows and better product visibility.
+
+Explore how technology can improve product and business operations.
+
+Technology Stack
+
+React TypeScript Tailwind CSS
+
+🔗 (https://github.com/Makarandp-ML/ProductHub-Management-System)
 
 ---
 
