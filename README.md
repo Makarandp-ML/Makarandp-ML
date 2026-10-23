@@ -25,20 +25,30 @@ Turning raw data into meaningful insights and exploring intelligent solutions to
 
 ## 📊 GitHub Stats & Top Languages
 
+## 📊 GitHub Stats & Top Languages
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Makarandp-ML
+&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used programming languages"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makarandp-ML
+&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
   />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Makarandp-ML
+&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
