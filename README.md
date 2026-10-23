@@ -1,67 +1,121 @@
-# Makarand Patil
-### Data Analytics | Business Analysis | Generative AI
+<!-- PROFILE HEADER -->
 
-**Transforming data into insights. Turning insights into business decisions. Exploring AI-driven solutions.**
+<h2 align="left">Hi there! I'm Makarand Patil 👋</h2>
 
-MCA student focused on data analytics, business intelligence, business problem-solving, and Generative AI. Interested in building analytical dashboards, interpreting business performance, and developing intelligent applications that solve real-world problems.
+<h3 align="left">
+Data Analytics | Business Analysis | Generative AI
+</h3>
 
-## Professional Focus
-
-- **Data Analytics:** Data cleaning, exploratory analysis, trend identification, and visualization.
-- **Business Analysis:** Business KPIs, performance reporting, financial analysis, and decision support.
-- **Business Intelligence:** Interactive dashboards, reporting, and data-driven insights.
-- **Generative AI:** AI-powered applications, prompt engineering, LLM concepts, and workflow automation.
-
-## Technical Skills
-
-| Category | Technologies and Concepts |
-|---|---|
-| Programming | Python, SQL |
-| Data Analysis | Pandas, NumPy, Exploratory Data Analysis |
-| Business Intelligence | Excel, Power BI, KPI Reporting |
-| Databases | SQLite, PostgreSQL |
-| Generative AI | LLM Fundamentals, Prompt Engineering, AI Applications |
-| Development Tools | Git, GitHub, VS Code, Jupyter Notebook |
-
-## Featured Projects
-
-### N100 — Financial Analytics Dashboard
-**Focus:** Financial Analysis · Business Intelligence · Data Visualization
-
-- Analyze company financial performance and historical trends.
-- Explore financial KPIs, profitability, and return on equity.
-- Support company comparison and financial screening.
-- Present structured financial information through dashboards.
-
-**Stack:** Python, Streamlit, SQLite, Pandas
-
-### VaaniShield AI
-**Focus:** Generative AI · Content Analysis · Digital Safety
-
-- Explore AI-generated content detection across text, images, and audio.
-- Separate content-origin predictions from misinformation and risk assessments.
-- Design understandable results to help users evaluate suspicious digital content.
-
-**Stack:** React, TypeScript, Tailwind CSS, AI-related analysis tools
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight)
-
-## Current Learning Goals
-
-- Strengthen Python and SQL for analytics.
-- Build end-to-end data analysis projects.
-- Develop business-focused dashboards and reports.
-- Apply Generative AI to practical business problems.
-- Prepare for Data Analyst and Business Analyst internships.
-
-## Professional Interests
-
-Data Analytics · Business Intelligence · Financial Analytics · Business Strategy · Generative AI · Decision Support Systems
+<p align="left">
+Turning raw data into meaningful insights and exploring intelligent solutions to business problems.
+</p>
 
 ---
 
-*Learning continuously. Analyzing critically. Building solutions with measurable value.*
+## 👨‍💻 About Me
+
+- 🎓 MCA student building practical skills in data analytics and business intelligence.
+- 📊 Interested in data-driven decision-making, business performance, and financial analytics.
+- 🐍 Learning to analyze and transform data using Python, Pandas, NumPy, and SQL.
+- 📈 Exploring dashboards, KPI reporting, and visualization using Excel and Power BI.
+- 🤖 Exploring Generative AI, prompt engineering, and AI-powered applications.
+- 🎯 Goal: Build practical portfolio projects and secure a Data Analyst or Business Analyst internship.
+
+---
+
+## 📊 GitHub Stats & Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub statistics"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most-used programming languages"
+    width="49%"
+  />
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Programming & Data Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Business Intelligence & Visualization**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Databases & Development**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Generative AI**
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6C63FF?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLM%20Applications-7B61FF?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-008080?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 N100 — Financial Analytics Dashboard
+
+**Domain:** Financial Analytics | Business Intelligence
+
+- Analyze historical financial performance and trends.
+- Explore company KPIs, including return on equity.
+- Compare companies and present financial information through dashboards.
+
+**Tools:** Python · Streamlit · SQLite · Pandas
+
+[Explore the N100 repository](YOUR_N100_REPOSITORY_URL)
+
+### 🛡️ VaaniShield AI
+
+**Domain:** Artificial Intelligence | Content Analysis
+
+- Explore AI-generated content detection for text, images, and audio.
+- Separate content-origin assessments from misinformation checks.
+- Present analysis results in a user-friendly interface.
+
+**Tools:** React · TypeScript · Tailwind CSS · AI tools
+
+[Explore the VaaniShield repository](YOUR_VAANISHIELD_REPOSITORY_URL)
+
+---
+
+## 📚 Current Learning Focus
+
+- Advanced SQL queries and data manipulation.
+- Python for exploratory data analysis.
+- Excel and Power BI dashboards.
+- Business KPIs and financial analysis.
+- Generative AI applications for business workflows.
+
+---
+
+## 🤝 Connect With Me
+
+I'm interested in analytics projects, business intelligence, and practical applications of Generative AI.
+
+[GitHub](https://github.com/Makarandp-ML/Makarandp-ML)) · [LinkedIn]((https://www.linkedin.com/in/makarandrpatil/?isSelfProfile=true))
+
+---
+
+<p align="center">
+  <i>Data → Insights → Decisions → Impact</i>
+</p>
